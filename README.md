@@ -74,5 +74,6 @@ Default web root:
 ## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix.com
 
 Modification to README file checked
-This is an addition to test a jenkins build
+
+A line was removed to check
 
