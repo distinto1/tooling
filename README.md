@@ -75,5 +75,5 @@ Default web root:
 
 Modification to README file checked
 
-A line was removed to check
+Edit our READme file to check the effect on our Jenkins build
 
