@@ -77,5 +77,6 @@ Modification to README file checked
 
 Editing our README file to check Jenkins configurations
 
+We have now committed new changes.
 
 
